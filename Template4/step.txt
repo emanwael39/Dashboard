@@ -1,0 +1,4 @@
+center-flex
+c-blue
+blue
+fw-bold

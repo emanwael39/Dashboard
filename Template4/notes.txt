@@ -1,0 +1,2 @@
+fa-lg >> large icone
+fa-fw >> icone of same width
